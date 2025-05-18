@@ -1,0 +1,3 @@
+[submodule "thoughtground/themes/typo"]
+	path = thoughtground/themes/typo
+	url = https://github.com/tomfran/typo.git
